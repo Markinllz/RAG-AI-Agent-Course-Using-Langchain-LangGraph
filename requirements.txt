@@ -1,0 +1,130 @@
+# Core LangChain ecosystem
+langchain
+langchain-community
+langchain-core
+langchain-experimental
+langgraph
+langsmith
+
+# LLM and Embeddings
+sentence-transformers
+transformers
+torch
+huggingface-hub
+pymupdf
+# Vector Stores and Search
+faiss-cpu
+chromadb
+pinecone-client
+weaviate-client
+qdrant-client
+
+# Data Processing
+polars
+pandas
+numpy
+scipy
+scikit-learn
+jq
+
+# File Processing
+openpyxl
+xlsxwriter
+python-docx
+PyPDF2
+pypdf
+python-magic
+
+# JSON and Data Formats
+ujson
+orjson
+pydantic
+pydantic-settings
+
+# Database and SQL
+sqlalchemy
+psycopg2-binary
+pymongo
+redis
+
+# Web and HTTP
+requests
+httpx
+aiohttp
+beautifulsoup4
+lxml
+
+# Text Processing
+nltk
+spacy
+textblob
+regex
+unidecode
+
+# Machine Learning
+xgboost
+lightgbm
+catboost
+optuna
+
+# Visualization
+matplotlib
+seaborn
+plotly
+bokeh
+
+# Configuration and Environment
+python-dotenv
+pyyaml
+toml
+
+# Async and Concurrency
+aiofiles
+asyncio-throttle
+
+# Caching and Performance
+diskcache
+joblib
+tqdm
+
+# Monitoring and Logging
+wandb
+tensorboard
+loguru
+
+# Security and Authentication
+cryptography
+python-jose
+passlib
+
+# Testing and Development
+pytest
+pytest-asyncio
+black
+flake8
+mypy
+
+# Utilities
+click
+rich
+typer
+python-multipart
+
+# Time and Date
+python-dateutil
+pytz
+
+# Image Processing
+Pillow
+opencv-python
+
+# Audio Processing
+librosa
+soundfile
+
+# Memory and Optimization
+memory-profiler
+psutil
+
+# Specific for your task
+gigachat

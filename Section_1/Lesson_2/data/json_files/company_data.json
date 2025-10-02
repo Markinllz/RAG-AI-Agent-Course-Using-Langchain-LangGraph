@@ -1,0 +1,57 @@
+{
+  "company": "TechCorp",
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alex Thompson",
+      "role": "Frontend Developer",
+      "skills": [
+        "Vue.js",
+        "TypeScript",
+        "CSS"
+      ],
+      "projects": [
+        {
+          "name": "RAG System",
+          "status": "In Progress"
+        },
+        {
+          "name": "Data Pipeline",
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Maria Rodriguez",
+      "role": "ML Engineer",
+      "skills": [
+        "TensorFlow",
+        "Deep Learning",
+        "Docker"
+      ],
+      "projects": [
+        {
+          "name": "ML Model",
+          "status": "In Progress"
+        },
+        {
+          "name": "Analytics Dashboard",
+          "status": "Planning"
+        }
+      ]
+    }
+  ],
+  "departments": {
+    "engineering": {
+      "head": "David Chen",
+      "budget": 1000000,
+      "team_size": 25
+    },
+    "data_science": {
+      "head": "Emily Watson",
+      "budget": 750000,
+      "team_size": 15
+    }
+  }
+}
