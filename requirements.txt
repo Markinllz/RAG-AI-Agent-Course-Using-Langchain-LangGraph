@@ -12,6 +12,7 @@ transformers
 torch
 huggingface-hub
 pymupdf
+tiktoken
 # Vector Stores and Search
 faiss-cpu
 chromadb
